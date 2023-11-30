@@ -1,0 +1,22 @@
+body{
+    height: 850px;
+    margin: 0;
+    background-color: rgb(197, 188, 220);
+    display: flex;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 80px;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+
+}
+.container{
+    top: 500px;
+    color: white;
+    text-align: center;
+    align-self: center;
+    background-color: rgb(140, 140, 220);
+    border-radius: 10px;
+    width: 600px;
+    height: 250px;
+}
